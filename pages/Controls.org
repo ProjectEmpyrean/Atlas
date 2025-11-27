@@ -1,0 +1,18 @@
+* Points of manipulation for [[Terms/Stress]].
+** [[Terms/Binding]]
+*** [[Terms/Wanting]]
+**** ?
+*** [[Terms/Feeling]]
+** [[Terms/Displeasure]]
+*** [[Terms/Perception]]
+**** [[Terms/Conditioning]]
+*** [[Terms/Sensation]]
+**** [[Terms/Contact]]
+***** [[Terms/Stimuli]]
+****** External world
+***** [[Terms/Sense base]]
+****** Sensory organs
+***** [[Terms/Consciousness]]
+****** Brain
+****** Mind
+* {{query (page-property :controls [[Terms/Binding]])}}

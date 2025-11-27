@@ -1,0 +1,26 @@
+#+tags: map
+
+* Directions
+:PROPERTIES:
+:heading: 2
+:END:
+** Understand [[Terms/Stress]], being mindful of it arising and passing away.
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** Recognize [[Terms/Suffering]] as stress beyond a threshold.
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** Recognize [[Binding]] as a causal process influenced by past [[Terms/Volition]].
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+** Constrain volition by leading every action with the determination, "For indefinite [[Terms/Happiness]]".
+:PROPERTIES:
+:logseq.order-list-type: number
+:END:
+**
+* Escapes from [[Terms/Suffering]]:
+** [[Sensual Enjoyment]]
+** [[Cognitive Reframing]]

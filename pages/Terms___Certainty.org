@@ -1,7 +1,4 @@
-* Certainty is a measure of how accurately [[Terms/Information]] is able to predict reality, especially pertaining to the effect of [[Volition]] on [[Terms/Happiness]].
-:PROPERTIES:
-:title: Terms/Certainty
-:END:
+* Certainty is a measure of how accurately [[Terms/Information]] is able to predict reality, especially pertaining to the effect of [[Terms/Volition]] on [[Terms/Happiness]].
 * The following scheme of categorization is used:
 ** Settled
 :PROPERTIES:

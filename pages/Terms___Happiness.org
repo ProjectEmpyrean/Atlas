@@ -1,1 +1,4 @@
-* Any state of [[Terms/Stress][stress]] below a threshold.
+* Any state of being where [[Terms/Stress][stress]] remains below a [[Terms/Threshold][threshold]].
+* Happiness is a state of being which necessarily involves some [[Terms/Identity]]. If there were no "one" to experience it, there would be no happiness.
+* So when identity cases, so too happiness and unhappiness.
+*

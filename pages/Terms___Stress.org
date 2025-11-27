@@ -1,7 +1,9 @@
-#+author: [[Shashank Rajesh]]
+#+author: [[Authors/Shashank Rajesh]]
 
-* Stress is the process of [[Terms/Binding]] to [[Displeasure]] .
-* Not limited to:
+* [[Displeasure]] that is [[Terms/Binding][bound]].
+* [[draws/2025-11-26-14-09-52.excalidraw]]
+* TODO Map experiences in terms of stress over time
+* Examples
 ** Suffering
 *** Anxiety
 *** Sadness
