@@ -5,3 +5,16 @@
 .admonitionblock > * {
   font-size: var(--ls-page-text-size);
 }
+
+div.page.relative {
+    display: flex;
+    flex-direction: column;
+}
+
+div.page.relative > .relative {
+    order: -2    
+}
+
+div.page.relative > .page-hierarchy {
+    order: -1;
+}
