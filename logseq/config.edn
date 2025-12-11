@@ -423,4 +423,4 @@
  :default-home {:page "Project Empyrean"}
  :publishing/all-pages-public? true
  :preferred-format :org
- :ui/show-brackets? false
+ :ui/show-brackets? false}
