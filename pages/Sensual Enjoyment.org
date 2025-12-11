@@ -1,7 +1,7 @@
 #+author: [[Authors/Shashank Rajesh]]
-#+controls: [[Terms/Feeling]], [[Terms/Binding]]
+#+controls: [[Terms/Feeling]], [[Terms/Involvement]]
 
-* [[Terms/Happiness]] through [[Terms/Binding]] to [[Terms/Pleasure]] felt through the five physical senses and the thoughts and perceptions derivative of them.
+* [[Terms/Happiness]] through [[Terms/Involvement]] to [[Terms/Pleasure]] felt through the five physical senses and the thoughts and perceptions derivative of them.
 * Consists of six [[Dhamma/18 Mental Preoccupations][mental preoccupations]] with pleasure.
 * Typically volatile, requiring constant novelty through change in sensation to maintain pleasure.
 ** The  "hedonic treadmill".

@@ -19,4 +19,4 @@
 :PROPERTIES:
 :query-properties: [:page :updated-at]
 :END:
-{{query (page-tags [[map]])}}
+{{query (namespace [[maps]])}}

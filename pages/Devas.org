@@ -46,7 +46,7 @@
 :heading: 3
 :author: [[Authors/AI]] Grok Expert 11/29/25
 :END:
-** Sakka
+** [[Devas/Sakka]]
 *** DN 21 (Sakkapanha Sutta)
 *** MN 37 (Culatanhakhaya Sutta)
 *** SN 11 (Sakka Samyutta)

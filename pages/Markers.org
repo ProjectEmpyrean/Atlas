@@ -7,4 +7,7 @@
 ** May contain explicit guidelines for behavior
 ** Relate to volition and its effects on stress.
 * Though atomic, there can be additional networking with the rest of the Atlas.
-* {{query (page-tags [[marker]])}}
+* {{query (or (page-tags [[marker]]) (namespace [[markers]]))}}
+:PROPERTIES:
+:query-properties: [:page :tags :certainty :updated-at]
+:END:

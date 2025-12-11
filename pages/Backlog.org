@@ -31,7 +31,7 @@
 ** Many of his translations of key terms seem quite brilliant and more accurate than other's I've come across.
 *** Sankhara -> Will
 *** Vedana -> Experience
-*** Tanha -> Wanting
+*** Tanha -> Thirst
 *** Pancakkhandha/pancupadanakkhandha? -> Components of existence
 *** Vinnana -> Consciousness-/es/
 *** Atta -> Permanent essence
@@ -52,3 +52,10 @@
 ** Medical cases of "ressurection" after medically verified death
 * TODO Create a "Philology IDE"
 * TODO Create a "Knowledge/Research IDE"
+* TODO [#A] Enforce neutrality
+** Project Empyrean needs to be absolutely neutral in view
+** No a posteriori assertions, only incontestable statements about hypothetical concepts based on information.
+** Users can gauge certainty themselves based upon available information. Our job is simply to make the information clear and comprehensible.
+** In this way we can avoid all conflicts of view within the organization and much more readily accept contributions of a wide diversity without concern for misrepresentation
+** TODO AI arbitration
+*** All PRs should be validated with a well tuned LLM to enforce this ideal

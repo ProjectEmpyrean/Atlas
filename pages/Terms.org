@@ -1,5 +1,1 @@
 #+alias: Glossary
-#+tags: draft
-
-* See "Hierarchy" below for a list of defined terms.
-* All terms are currently in draft stage, their exact definitions are subject to change.

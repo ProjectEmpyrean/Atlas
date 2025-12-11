@@ -1,8 +1,10 @@
 #+author: [[Authors/Shashank Rajesh]]
 
-* [[Displeasure]] that is [[Terms/Binding][bound]].
-* [[draws/2025-11-26-14-09-52.excalidraw]]
-* TODO Map experiences in terms of stress over time
+* The result of [[Terms/Involvement][personal involvement]] with [[Terms/Displeasure]]
+* Three grades (descending)
+** Suffering
+** Languishing
+** Happiness
 * Examples
 ** Suffering
 *** Anxiety
@@ -30,7 +32,9 @@
 *** Disappointment
 *** Worry
 ** Happiness
-*** /Yes, even happiness as it is typically understood involves some amount of stress via the process of binding, however subtle and negligible. It is only in such states as nibbana that stress ceases entirely./
+*** #+BEGIN_NOTE
+/Yes, even happiness as it is typically understood involves some amount of stress via the process of , however subtle and negligible. It is only in such states as nibbana that stress ceases entirely./
+#+END_NOTE
 *** Contentment
 *** Satisfaction
 *** Cheerfulness
@@ -40,3 +44,5 @@
 *** Rapture
 *** Bliss
 *** Equanimity
+* [[draws/2025-11-26-14-09-52.excalidraw]]
+* TODO Map experiences in terms of stress over time
